@@ -14,10 +14,10 @@ This is an header
 * 빨강
   * 파랑
    * 노랑
-  ![](https://github.com/hb-Kim/ssafy_bot/blob/master/cat.jpg)
+![](https://github.com/hb-Kim/ssafy_bot/blob/master/cat.jpg)
 chatbot made by slackclient
 
-|
-|
-|
-|
+| name | number |
+|------|--------|
+| hyunbin|  01 |
+| ssafy | 03|
